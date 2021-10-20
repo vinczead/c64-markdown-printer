@@ -15,8 +15,8 @@ With the help of this program you can print a MarkDown file with your Commodore 
 # Supported syntax
 
 The following syntax elements are currently implemented:
-- **bold text** (with `** stars only **`)
-- *italic text* (with `* stars only*`)
+- **bold text** (with `**stars only**`)
+- *italic text* (with `*stars only*`)
 - headers h1, h2, h3 (with `#`, `##`, `###` respectively)
 - block quotes (lines starting with `>`), currently nesting is not supported
 - ordered lists (lines starting with numbers), currently nesting not supported
